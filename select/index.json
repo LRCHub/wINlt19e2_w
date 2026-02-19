@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君ときゅんと♡",
+  "base_artist": "ラフ×ラフ",
+  "createdAt": "2026-02-19T07:34:15.011077Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君ときゅんと♡",
+      "artist": "ラフ×ラフ",
+      "has_synced": false,
+      "path": "select/pl_01_君ときゅんと♡_ラフ×ラフ.txt"
+    }
+  ]
+}
